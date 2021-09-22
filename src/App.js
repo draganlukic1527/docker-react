@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Docker React Test Run Dragan
+        Docker Test changed Text
       </header>
     </div>
   );
